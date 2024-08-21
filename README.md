@@ -7,7 +7,7 @@ Developed a website for a wristwatch brand called F + F, emphasizing both form a
 Front-end developer responsible for designing and implementing the website.
 
 ## Technologies Used
-- **Front-end**: HTML, CSS, JavaScript
+- **Front-end**: HTML, CSS
 - **Styling**: Custom CSS, Google Fonts
 
 ## Features
@@ -37,7 +37,7 @@ Front-end developer responsible for designing and implementing the website.
 
 ## How to Run the Project
 1. Clone the repository: `git clone https://github.com/MAHMRO1/finance`
-2. Navigate to the project directory: `cd finance`
+2. Navigate to the project directory: `cd output 1_ HTML & CSS.zip`
 3. Open `index.html` in your browser to view the website.
 
 ## CSS File
