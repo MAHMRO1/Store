@@ -32,8 +32,6 @@ Front-end developer responsible for designing and implementing the website.
 
 ## Visuals and Links
 - **Screenshots**: Include screenshots of the homepage, features section, and pricing section.
-- **Live Demo**: [Link to live demo] (if available)
-- **GitHub Repository**: [Link to GitHub repository]
 
 ## How to Run the Project
 1. Clone the repository: `git clone https://github.com/MAHMRO1/finance`
